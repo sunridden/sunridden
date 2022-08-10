@@ -2,17 +2,24 @@
 **<p align="center">I'm a passionate developer residing in California!</p>**
 
 - 🔭 I'm current working on [The Odin Project](https://theodinproject.com)
-- 🌱 I'm currently learning HTML, CSS, Javascript, NodeJS, and React
+- 🌱 I'm currently learning **HTML, CSS, Javascript, NodeJS, and React**
 - ⚡ Fun fact: I'm 16 years old (turning 17 this year)!
 
 ## ✉️ Contact Me
-<a href="https://twitter.com/sunridden" target="blank">
+- <a href="https://twitter.com/sunridden" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"      alt="sunridden twitter" height="30" width="40" />
 </a>
 
-<a href="https://www.reddit.com/user/sunridden" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg"      alt="sunridden reddit" height="30" width="40" />
+- <a href="https://www.reddit.com/user/sunridden" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg"       alt="sunridden reddit" height="30" width="40" />
 </a>
+
+- <p align="left">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"      alt="sunridden discord" height="30" width="40" />
+  Reach me on discord! ke#5204
+</p> 
+
+
 
 ## 🔧 Languages & Tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>

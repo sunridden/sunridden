@@ -1,7 +1,7 @@
 # <p align="center"> Hi! 👋 I'm Kevin</p>
 **<p align="center">I'm a passionate developer residing in California!</p>**
 
-⚝ I'm mainly focusing my efforts on web development and I'm working on [The Odin Project](https://theodinproject.com). I also like to read, play video games, and do martial arts in my free time.
+🌌 I'm mainly focusing my efforts on web development and I'm working on [The Odin Project](https://theodinproject.com). I also like to read, play video games, and do martial arts in my free time.
 
 ## ✉️ Contact Me
 

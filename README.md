@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=32&color=000000&lines=Hi,+I'm+Kevin." />
 </picture>
 
-👋 I'm a student developer residing in California. I started programming at 15, and I'm working on web development and game development. All of my projects are built from the ground up, from planning and designing the UI to building the actual functionality with code.
+👋
 
 ## ⛏ Languages & Tools
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)

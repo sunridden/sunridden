@@ -28,7 +28,7 @@
 
 ### 🤝 Collaboration
 
-Feel free to email me at [kevinszeto9449@gmail.com](mailto:kevinszeto9449@gmail.com) if you want to work on a project together.
+Feel free to email me at [sunriddenshadow@gmail.com](mailto:kevinszeto9449@gmail.com) if you want to work on a project together.
 
 
 
